@@ -98,8 +98,9 @@ O Lumynus é um micro framework PHP leve e flexível, projetado para facilitar o
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=20&color=38BDF8&center=true&width=400&height=40&lines=Carioca+%7C+Desenvolvedor+%7C+Tech+Lead" alt="Typing SVG" />
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welenysantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welenysantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <!-- STATS COM URLs CORRIGIDAS -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=welenysantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welenysantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br>
@@ -107,7 +108,8 @@ O Lumynus é um micro framework PHP leve e flexível, projetado para facilitar o
 ### ⏳ Histórico de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=welenysantos&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <!-- STREAK CORRIGIDO PARA SERVIDOR DEMOLAB (HEROKU FOI DESATIVADO) -->
+  <img src="https://streak-stats.demolab.com/?user=welenysantos&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 <br>
