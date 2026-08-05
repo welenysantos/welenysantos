@@ -34,94 +34,75 @@
 ## 🏆 Projetos em Destaque
 
 <div align="center">
-  <!-- TABELA DE PROJETOS CORRIGIDA E RENDERIZADA CORRETAMENTE -->
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <!-- LINKA.RIO -->
-      <td align="center" width="33%" style="padding: 20px; border: none; vertical-align: top;">
-        <a href="https://linka.rio">
-          <img src="https://www.google.com/s2/favicons?domain=linka.rio&sz=128" width="65" alt="Linka.rio Logo" />
-        </a>
-        <br><br>
-        <b><a href="https://linka.rio">Linka.rio</a></b>
-        <br>
-        <i>SaaS Analytics</i>
-        <br><br>
-        A plataforma brasileira mais avançada para gestão de links curtos, captura de leads e redirecionamentos inteligentes.
-        <br><br><br>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-      </td>
-
-      <!-- RIODEV -->
-      <td align="center" width="33%" style="padding: 20px; border: none; vertical-align: top;">
-        <a href="https://riodev.com.br">
-          <img src="https://www.google.com/s2/favicons?domain=riodev.com.br&sz=128" width="65" alt="RioDev Logo" />
-        </a>
-        <br><br>
-        <b><a href="https://riodev.com.br">RioDev</a></b>
-        <br>
-        <i>Software House</i>
-        <br><br>
-        Especializada em desenvolvimento de sistemas de alta performance. 30+ projetos e 98% de satisfação.
-        <br><br><br>
-        <img src="https://img.shields.io/badge/Business-000000?style=flat-square" alt="Business" />
-      </td>
-
-      <!-- LUMYNUS -->
-      <td align="center" width="33%" style="padding: 20px; border: none; vertical-align: top;">
-        <!-- CARD DO LUMYNUS COM FUNDO BRANCO E SOMBRA -->
-        <a href="https://lumynus.dev">
-          <img src="https://lumynus.dev/images/icon.png" width="65" height="65" style="background-color: white; border-radius: 15px; padding: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" alt="LumynusPHP Logo" />
-        </a>
-        <br><br>
-        <b><a href="https://lumynus.dev">LumynusPHP</a></b>
-        <br>
-        <i>Micro-Framework</i>
-        <br><br>
-        O Lumynus é um micro framework PHP leve e flexível, projetado para facilitar o desenvolvimento de aplicações web modernas com uma abordagem minimalista.
-        <br><br>
-        <img src="https://img.shields.io/badge/PHP_8+-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://linka.rio">
+<img src="https://www.google.com/s2/favicons?domain=linka.rio&sz=128" width="65" alt="Linka.rio Logo" />
+</a>
+<br><br>
+<b><a href="https://linka.rio">Linka.rio</a></b>
+<br>
+<i>SaaS Analytics</i>
+<br><br>
+A plataforma brasileira mais avançada para gestão de links curtos, captura de leads e redirecionamentos inteligentes.
+<br><br><br>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+</td>
+<td align="center" width="33%">
+<a href="https://riodev.com.br">
+<img src="https://www.google.com/s2/favicons?domain=riodev.com.br&sz=128" width="65" alt="RioDev Logo" />
+</a>
+<br><br>
+<b><a href="https://riodev.com.br">RioDev</a></b>
+<br>
+<i>Software House</i>
+<br><br>
+Especializada em desenvolvimento de sistemas de alta performance. 30+ projetos e 98% de satisfação.
+<br><br><br>
+<img src="https://img.shields.io/badge/Business-000000?style=flat-square" alt="Business" />
+</td>
+<td align="center" width="33%">
+<a href="https://lumynus.dev">
+<img src="https://lumynus.dev/images/icon.png" width="65" height="65" alt="LumynusPHP Logo" />
+</a>
+<br><br>
+<b><a href="https://lumynus.dev">LumynusPHP</a></b>
+<br>
+<i>Micro-Framework</i>
+<br><br>
+O Lumynus é um micro framework PHP leve e flexível, projetado para facilitar o desenvolvimento de aplicações web modernas.
+<br><br><br>
+<img src="https://img.shields.io/badge/PHP_8+-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+</td>
+</tr>
+</table>
 </div>
 
 <br>
 
-## 📊 Estastísticas e Métricas (Cool stuff!)
-
-### 🚀 Métricas Chave
+## 📊 Estatísticas e Métricas do GitHub
 
 <p align="center">
-  <!-- EXEMPLO DE BADGES PARA REPOSITÓRIOS E SEGUIDORES -->
   <a href="https://github.com/welenysantos?tab=repositories">
     <img src="https://img.shields.io/badge/Repositórios-65+-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
   </a>
   <a href="https://github.com/welenysantos?tab=followers">
     <img src="https://img.shields.io/badge/Seguidores-25+-059669?style=for-the-badge&logo=github&logoColor=white" alt="Seguidores" />
   </a>
+  <a href="https://github.com/welenysantos">
+    <img src="https://img.shields.io/github/stars/welenysantos?style=for-the-badge&color=eab308" alt="Stars" />
+  </a>
 </p>
 
-### 🎨 Noções do Perfil
-
 <div align="center">
-  <!-- TABELA PARA ORGANIZAR AS CARDS DETALHADAS -->
-  <table style="border: none;">
-    <tr>
-      <!-- BANNER DE DIGITAÇÃO EXTRA -->
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=16&color=38BDF8&center=true&width=400&height=30&lines=Carioca+%7C+Desenvolvedor+%7C+Geek" alt="Typing SVG" />
-      </td>
-    </tr>
-    <tr>
-      <!-- CARDS DETALHADAS DO GITHUB -->
-      <td align="center" style="border: none; padding: 10px;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welenysantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welenysantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=20&color=38BDF8&center=true&width=400&height=40&lines=Carioca+%7C+Desenvolvedor+%7C+Tech+Lead" alt="Typing SVG" />
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welenysantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welenysantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
+
+<br>
 
 ### ⏳ Histórico de Contribuições
 
@@ -142,12 +123,10 @@
   <!-- Ferramentas base -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=light" style="vertical-align: middle;" alt="Tools" />
   
-  <!-- LUMYNUS COM FUNDO BRANCO CORRIGIDO -->
   <a href="https://lumynus.dev">
     <img src="https://lumynus.dev/images/icon.png" width="48" height="48" style="background-color: white; border-radius: 12px; padding: 6px; vertical-align: middle; margin: 0 4px; box-shadow: 0px 2px 4px rgba(0,0,0,0.2);" alt="LumynusPHP" />
   </a>
   
-  <!-- FLOWBITE COM FUNDO BRANCO E LOGO CORRIGIDOS -->
   <a href="https://flowbite.com">
     <img src="https://flowbite.com/images/logo.svg" width="48" height="48" style="background-color: white; border-radius: 12px; padding: 6px; vertical-align: middle; margin: 0 4px; box-shadow: 0px 2px 4px rgba(0,0,0,0.2);" alt="Flowbite" />
   </a>
