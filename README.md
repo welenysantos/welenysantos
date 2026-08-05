@@ -1,43 +1,26 @@
-<!-- Banner Estilo Programação / Terminal -->
+<!-- ASSINATURA ELEGANTE -->
 <div align="center">
-  <table style="border-radius: 12px; overflow: hidden; font-family: 'Courier New', Courier, monospace; text-align: left; background-color: #0d1117; color: #c9d1d9; width: 100%; max-width: 800px; border: 1px solid #30363d;">
-    <tr style="background-color: #161b22; border-bottom: 1px solid #30363d;">
-      <td style="padding: 10px 15px;">
-        <span style="color: #ff5f56; font-size: 18px;">●</span>
-        <span style="color: #ffbd2e; font-size: 18px;">●</span>
-        <span style="color: #27c93f; font-size: 18px;">●</span>
-        <span style="margin-left: 15px; color: #8b949e; font-size: 14px;">weleny@rio-de-janeiro: ~/perfil</span>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 20px; line-height: 1.6; font-size: 15px;">
-        <span style="color: #ff7b72;">const</span> <span style="color: #79c0ff;">developer</span> <span style="color: #ff7b72;">=</span> {<br>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">name</span>: <span style="color: #a5d6ff;">'Weleny Santos'</span>,<br>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">role</span>: <span style="color: #a5d6ff;">'Full Stack Software Engineer'</span>,<br>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">location</span>: <span style="color: #a5d6ff;">'Rio de Janeiro, RJ 🏖️ (Carioca!)'</span>,<br>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">expertise</span>: [<span style="color: #a5d6ff;">'SaaS'</span>, <span style="color: #a5d6ff;">'Frameworks'</span>, <span style="color: #a5d6ff;">'High-Performance'</span>]<br>
-        };<br><br>
-        <span style="color: #ff7b72;">echo</span> <span style="color: #a5d6ff;">"Bem-vindo ao meu GitHub! Transformando ideias em código diretamente da Cidade Maravilhosa. 🚀"</span>;
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=55&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=80&lines=Weleny+Santos" alt="Weleny Santos" />
 </div>
 
-<br>
+<!-- BANNER DINÂMICO UI/UX -->
+<div align="center">
+  <a href="https://riodev.com.br">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=220&section=header&text=Transformando%20ideias%20em%20código%20🚀&fontSize=32&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=%3C%3Fphp%20echo%20%22Desenvolvedor%20Carioca%20%E2%98%80%EF%B8%8F%20%7C%20SaaS%20%26%20Frameworks%22%3B%20%3F%3E&descAlignY=58&descSize=18" width="100%" alt="Banner Animado" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Software+Engineer;🚀+Founder+@+RioDev;⚡+Creator+of+LumynusPHP" alt="Weleny Santos" />
-</p>
-
-<p align="center">
-  <kbd>💻 Desenvolvedor Full Stack</kbd> <kbd>🏢 Software House</kbd> <kbd>🎯 SaaS & Frameworks</kbd>
+  <img src="https://img.shields.io/badge/💻_Full_Stack-2563EB?style=for-the-badge&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/🏢_Software_House-0F172A?style=for-the-badge&logoColor=white" alt="Software House" />
+  <img src="https://img.shields.io/badge/🎯_SaaS_&_Frameworks-059669?style=for-the-badge&logoColor=white" alt="SaaS" />
 </p>
 
 <br>
 
 ## 🚀 Sobre Mim
 
-Sou carioca, moro no Rio de Janeiro e sou um desenvolvedor full stack apaixonado por código limpo, arquitetura escalável e inovação tecnológica. Com mais de 10 anos de experiência, criei a **RioDev** (software house premiada) e sou o desenvolvedor e criador oficial do **LumynusPHP**.
+> *"Sou carioca, moro no Rio de Janeiro e sou um desenvolvedor full stack apaixonado por código limpo, arquitetura escalável e inovação tecnológica. Com mais de 10 anos de experiência, criei a **RioDev** (software house premiada) e sou o desenvolvedor e criador oficial do **LumynusPHP**."*
 
 **O que eu entrego:**
 * ▹ **Sistemas Web:** Arquiteturas robustas e escaláveis.
@@ -51,11 +34,12 @@ Sou carioca, moro no Rio de Janeiro e sou um desenvolvedor full stack apaixonado
 ## 🏆 Projetos em Destaque
 
 <div align="center">
-  <table>
+  <table style="border: none;">
     <tr>
-      <td align="center" width="33%">
+      <!-- LUMYNUS -->
+      <td align="center" width="33%" style="padding: 20px;">
         <a href="https://lumynus.dev">
-          <img src="https://lumynus.dev/images/icon.png" width="60" style="background: white; border: 4px solid white; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="LumynusPHP Logo" />
+          <img src="https://lumynus.dev/images/icon.png" width="65" height="65" style="background-color: white; border-radius: 15px; padding: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" alt="LumynusPHP Logo" />
         </a>
         <br><br>
         <b><a href="https://lumynus.dev">LumynusPHP</a></b>
@@ -64,11 +48,13 @@ Sou carioca, moro no Rio de Janeiro e sou um desenvolvedor full stack apaixonado
         <br><br>
         O Lumynus é um micro framework PHP leve e flexível, projetado para facilitar o desenvolvimento de aplicações web modernas com uma abordagem minimalista. Ele oferece uma estrutura simples, mas poderosa, que permite aos desenvolvedores criar aplicações de forma rápida e eficiente, sem a complexidade de frameworks maiores.
         <br><br>
-        <code>PHP 8+</code> <code>MVC</code> <code>Minimalista</code>
+        <img src="https://img.shields.io/badge/PHP_8+-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
       </td>
-      <td align="center" width="33%">
+      
+      <!-- LINKA.RIO -->
+      <td align="center" width="33%" style="padding: 20px;">
         <a href="https://linka.rio">
-          <img src="https://www.google.com/s2/favicons?domain=linka.rio&sz=128" width="60" alt="Linka.rio Logo" />
+          <img src="https://www.google.com/s2/favicons?domain=linka.rio&sz=128" width="65" alt="Linka.rio Logo" />
         </a>
         <br><br>
         <b><a href="https://linka.rio">Linka.rio</a></b>
@@ -76,23 +62,23 @@ Sou carioca, moro no Rio de Janeiro e sou um desenvolvedor full stack apaixonado
         <i>SaaS Analytics</i>
         <br><br>
         A plataforma brasileira mais avançada para gestão de links curtos, captura de leads e redirecionamentos inteligentes.
-        <br><br>
-        <br>
-        <code>Vue.js</code> <code>Edge</code> <code>Real-time</code>
+        <br><br><br><br><br>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
       </td>
-      <td align="center" width="33%">
+      
+      <!-- RIODEV -->
+      <td align="center" width="33%" style="padding: 20px;">
         <a href="https://riodev.com.br">
-          <img src="https://www.google.com/s2/favicons?domain=riodev.com.br&sz=128" width="60" alt="RioDev Logo" />
+          <img src="https://www.google.com/s2/favicons?domain=riodev.com.br&sz=128" width="65" alt="RioDev Logo" />
         </a>
         <br><br>
         <b><a href="https://riodev.com.br">RioDev</a></b>
         <br>
         <i>Software House</i>
         <br><br>
-        Especializada em desenvolvimento de sistemas de alta performance. 30+ projetos e 98% de satisfação entre clientes.
-        <br><br>
-        <br>
-        <code>PHP</code> <code>Vue.js</code> <code>MySQL</code>
+        Especializada em desenvolvimento de sistemas de alta performance. 30+ projetos e 98% de satisfação.
+        <br><br><br><br><br>
+        <img src="https://img.shields.io/badge/Business-000000?style=flat-square" alt="Business" />
       </td>
     </tr>
   </table>
@@ -102,28 +88,37 @@ Sou carioca, moro no Rio de Janeiro e sou um desenvolvedor full stack apaixonado
 
 ## 🎓 Formação Acadêmica
 
-* ▹ **Pós-graduado** em Inteligência Artificial
-* ▹ **Bacharelado** em Sistemas da Informação
-* ▹ **Curso** de WebDesigner
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center"><b>🤖 Pós-graduação</b><br>Inteligência Artificial</td>
+      <td align="center"><b>💻 Bacharelado</b><br>Sistemas de Informação</td>
+      <td align="center"><b>🎨 Curso de Formação</b><br>WebDesigner</td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
 ## 🛠️ Stack Tecnológico
 
 <p align="center">
-  <!-- Tecnologias Base -->
+  <!-- Tecnologias Base (Via SkillIcons) -->
   <img src="https://skillicons.dev/icons?i=php,javascript,vue,go,cpp,html,css,tailwind,bootstrap&theme=light" alt="Tech Stack" />
 </p>
 
 <p align="center">
-  <!-- Ferramentas e Frameworks -->
+  <!-- Ferramentas base -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=light" style="vertical-align: middle;" alt="Tools" />
   
+  <!-- Lumynus com Fundo Branco -->
   <a href="https://lumynus.dev">
-    <img src="https://lumynus.dev/images/icon.png" width="48" height="48" style="background-color: white; border: 3px solid white; border-radius: 12px; vertical-align: middle; margin: 0 4px;" alt="LumynusPHP" />
+    <img src="https://lumynus.dev/images/icon.png" width="48" height="48" style="background-color: white; border-radius: 12px; padding: 6px; vertical-align: middle; margin: 0 4px; box-shadow: 0px 2px 4px rgba(0,0,0,0.2);" alt="LumynusPHP" />
   </a>
+  
+  <!-- Flowbite com Fundo Branco Consertado -->
   <a href="https://flowbite.com">
-    <img src="https://raw.githubusercontent.com/themesberg/flowbite/main/docs/content/images/logo.svg" width="48" height="48" style="background-color: white; border: 3px solid white; border-radius: 12px; vertical-align: middle; margin: 0 4px;" alt="Flowbite" />
+    <img src="https://flowbite.com/images/logo.svg" width="48" height="48" style="background-color: white; border-radius: 12px; padding: 6px; vertical-align: middle; margin: 0 4px; box-shadow: 0px 2px 4px rgba(0,0,0,0.2);" alt="Flowbite" />
   </a>
 </p>
 
@@ -140,7 +135,7 @@ class Developer
 {
     public string $name = "Weleny Santos";
     public string $role = "Full Stack Engineer";
-    public string $location = "Rio de Janeiro, Brasil 🏖️";
+    public string $location = "Rio de Janeiro, RJ 🏖️";
     public int $experience = 10; // years
 
     public array $specialties = [
@@ -151,25 +146,10 @@ class Developer
         "SaaS Development"
     ];
 
-    public array $languages = [
-        "PHP" => "Expert",
-        "JavaScript" => "Expert",
-        "Go" => "Intermediate",
-        "C++" => "Intermediate"
-    ];
-
     public array $frameworks = [
         "LumynusPHP" => "Creator",
         "Vue.js" => "Advanced",
-        "Express.js" => "Intermediate",
-        "Bootstrap" => "Expert"
-    ];
-
-    public array $currentFocus = [
-        "Scalable Architectures",
-        "High-Performance Systems",
-        "Modern PHP Development",
-        "Real-time Analytics"
+        "Tailwind / Flowbite" => "Advanced"
     ];
 
     public function myMission(): string
