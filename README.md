@@ -108,7 +108,6 @@ O Lumynus é um micro framework PHP leve e flexível, projetado para facilitar o
 ### ⏳ Histórico de Contribuições
 
 <p align="center">
-  <!-- STREAK CORRIGIDO PARA SERVIDOR DEMOLAB (HEROKU FOI DESATIVADO) -->
   <img src="https://streak-stats.demolab.com/?user=welenysantos&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
